@@ -1,25 +1,8 @@
-# ReduxSimpleStarter
+ 3 Super Special Secret Facts:
+      1.Unicorns exist.
+      2.Chocolate milk and Thai massage are good for your health.
+      3.Raccoons are funny and they are the best pets in the world.
+      
+ 1 Extra Super Special Secret Fact:
+      1.Kirill is the kind little raccoon.
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-###Getting Started###
-
-There are two methods for getting started with this repo.
-
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-	> npm install
-	> npm start
-```
